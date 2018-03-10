@@ -625,3 +625,704 @@ LogInit: Object subsystem initialized
 [2018.03.10-02.04.30:992][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.03.10-02.04.30:992][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
 [2018.03.10-02.04.31:075][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.10-02.10.14:921][878]SourceControl: Source control is disabled
+[2018.03.10-02.10.17:845][229]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.03.10-02.10.26:094][183]LogSlate: Took 0.003567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.10-02.13.25:583][976]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-02.13.25:646][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.03.10-02.13.25:646][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-02.13.25:648][976]PIE: New page: PIE session: 2DSideScrollerExampleMap (Mar 9, 2018, 10:13:25 AM)
+[2018.03.10-02.13.25:648][976]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.03.10-02.13.25:651][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002478s)
+[2018.03.10-02.13.25:651][976]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.03.10-02.13.25:651][976]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2018.03.10-02.13.25:652][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003332s)
+[2018.03.10-02.13.25:670][976]LogInit: XAudio2 using 'Speakers (C-Media USB Audio Device   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-02.13.25:676][976]LogInit: FAudioDevice initialized.
+[2018.03.10-02.13.25:716][976]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.03.10-02.13.25:718][976]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.03.09-18.13.25
+[2018.03.10-02.13.25:718][976]LogWorld: Bringing up level for play took: 0.001115
+[2018.03.10-02.13.25:757][976]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.03.10-02.13.25:758][976]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.243
+[2018.03.10-02.13.25:759][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.03.10-02.14.13:831][743]Cmd: LevelEditor.ToggleImmersive
+[2018.03.10-02.14.13:967][744]LogRenderer: Reallocating scene render targets to support 1340x720 Format 10 NumSamples 1 (Frame:5769).
+[2018.03.10-02.14.14:022][745]LogRenderer: Reallocating scene render targets to support 1860x1080 Format 10 NumSamples 1 (Frame:5771).
+[2018.03.10-02.17.45:386][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.03.10-02.17.45:448][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.03.10-02.23.21:664][436]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-02.23.21:673][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0000_Fall.png)
+[2018.03.10-02.23.21:677][436]LogTexture: Display: Building textures: TCM__0000_Fall (AutoDXT, 200X200)
+[2018.03.10-02.23.21:699][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0001_Stand.png)
+[2018.03.10-02.23.21:701][436]LogTexture: Display: Building textures: TCM__0001_Stand (AutoDXT, 200X200)
+[2018.03.10-02.23.21:726][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0002_Runstart1.png)
+[2018.03.10-02.23.21:728][436]LogTexture: Display: Building textures: TCM__0002_Runstart1 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:751][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0003_Runstart2.png)
+[2018.03.10-02.23.21:755][436]LogTexture: Display: Building textures: TCM__0003_Runstart2 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:778][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0004_Runstart3.png)
+[2018.03.10-02.23.21:781][436]LogTexture: Display: Building textures: TCM__0004_Runstart3 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:804][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0005_Run1.png)
+[2018.03.10-02.23.21:807][436]LogTexture: Display: Building textures: TCM__0005_Run1 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:831][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0006_Run2.png)
+[2018.03.10-02.23.21:834][436]LogTexture: Display: Building textures: TCM__0006_Run2 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:859][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0007_Run3.png)
+[2018.03.10-02.23.21:861][436]LogTexture: Display: Building textures: TCM__0007_Run3 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:885][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0008_Run4.png)
+[2018.03.10-02.23.21:887][436]LogTexture: Display: Building textures: TCM__0008_Run4 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:911][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0009_Run5.png)
+[2018.03.10-02.23.21:914][436]LogTexture: Display: Building textures: TCM__0009_Run5 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:937][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0010_Run6.png)
+[2018.03.10-02.23.21:939][436]LogTexture: Display: Building textures: TCM__0010_Run6 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:963][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0011_Run7.png)
+[2018.03.10-02.23.21:965][436]LogTexture: Display: Building textures: TCM__0011_Run7 (AutoDXT, 200X200)
+[2018.03.10-02.23.21:987][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0012_Run8.png)
+[2018.03.10-02.23.21:990][436]LogTexture: Display: Building textures: TCM__0012_Run8 (AutoDXT, 200X200)
+[2018.03.10-02.23.22:015][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0013_Hit.png)
+[2018.03.10-02.23.22:020][436]LogTexture: Display: Building textures: TCM__0013_Hit (AutoDXT, 200X200)
+[2018.03.10-02.23.22:038][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0014_Wallslide.png)
+[2018.03.10-02.23.22:041][436]LogTexture: Display: Building textures: TCM__0014_Wallslide (AutoDXT, 200X200)
+[2018.03.10-02.23.22:057][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0015_Dash.png)
+[2018.03.10-02.23.22:060][436]LogTexture: Display: Building textures: TCM__0015_Dash (AutoDXT, 200X200)
+[2018.03.10-02.23.22:078][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0016_Crouch.png)
+[2018.03.10-02.23.22:081][436]LogTexture: Display: Building textures: TCM__0016_Crouch (AutoDXT, 200X200)
+[2018.03.10-02.23.22:095][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0017_Jumpstart1.png)
+[2018.03.10-02.23.22:098][436]LogTexture: Display: Building textures: TCM__0017_Jumpstart1 (AutoDXT, 200X200)
+[2018.03.10-02.23.22:123][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0018_Jumpstart2.png)
+[2018.03.10-02.23.22:125][436]LogTexture: Display: Building textures: TCM__0018_Jumpstart2 (AutoDXT, 200X200)
+[2018.03.10-02.23.22:149][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0019_Jumpidle.png)
+[2018.03.10-02.23.22:152][436]LogTexture: Display: Building textures: TCM__0019_Jumpidle (AutoDXT, 200X200)
+[2018.03.10-02.23.22:178][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0020_Jumppeak.png)
+[2018.03.10-02.23.22:181][436]LogTexture: Display: Building textures: TCM__0020_Jumppeak (AutoDXT, 200X200)
+[2018.03.10-02.23.22:204][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0021_Jumpfall.png)
+[2018.03.10-02.23.22:208][436]LogTexture: Display: Building textures: TCM__0021_Jumpfall (AutoDXT, 200X200)
+[2018.03.10-02.23.22:230][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0022_Jumpland1.png)
+[2018.03.10-02.23.22:232][436]LogTexture: Display: Building textures: TCM__0022_Jumpland1 (AutoDXT, 200X200)
+[2018.03.10-02.23.22:257][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Digress\Desktop\Assets\Art\TCM\Individualsprites\TCM__0023_Jumpland2.png)
+[2018.03.10-02.23.22:260][436]LogTexture: Display: Building textures: TCM__0023_Jumpland2 (AutoDXT, 200X200)
+[2018.03.10-02.23.27:067][768]LogTexture: Display: Building textures: TCM__0000_Fall (BGRA8, 200X200)
+[2018.03.10-02.23.27:071][768]LogTexture: Display: Building textures: TCM__0001_Stand (BGRA8, 200X200)
+[2018.03.10-02.23.27:074][768]LogTexture: Display: Building textures: TCM__0002_Runstart1 (BGRA8, 200X200)
+[2018.03.10-02.23.27:078][768]LogTexture: Display: Building textures: TCM__0003_Runstart2 (BGRA8, 200X200)
+[2018.03.10-02.23.27:082][768]LogTexture: Display: Building textures: TCM__0004_Runstart3 (BGRA8, 200X200)
+[2018.03.10-02.23.27:086][768]LogTexture: Display: Building textures: TCM__0005_Run1 (BGRA8, 200X200)
+[2018.03.10-02.23.27:092][768]LogTexture: Display: Building textures: TCM__0006_Run2 (BGRA8, 200X200)
+[2018.03.10-02.23.27:096][768]LogTexture: Display: Building textures: TCM__0007_Run3 (BGRA8, 200X200)
+[2018.03.10-02.23.27:100][768]LogTexture: Display: Building textures: TCM__0008_Run4 (BGRA8, 200X200)
+[2018.03.10-02.23.27:103][768]LogTexture: Display: Building textures: TCM__0009_Run5 (BGRA8, 200X200)
+[2018.03.10-02.23.27:107][768]LogTexture: Display: Building textures: TCM__0010_Run6 (BGRA8, 200X200)
+[2018.03.10-02.23.27:111][768]LogTexture: Display: Building textures: TCM__0011_Run7 (BGRA8, 200X200)
+[2018.03.10-02.23.27:115][768]LogTexture: Display: Building textures: TCM__0012_Run8 (BGRA8, 200X200)
+[2018.03.10-02.23.27:120][768]LogTexture: Display: Building textures: TCM__0013_Hit (BGRA8, 200X200)
+[2018.03.10-02.23.27:123][768]LogTexture: Display: Building textures: TCM__0014_Wallslide (BGRA8, 200X200)
+[2018.03.10-02.23.27:127][768]LogTexture: Display: Building textures: TCM__0015_Dash (BGRA8, 200X200)
+[2018.03.10-02.23.27:130][768]LogTexture: Display: Building textures: TCM__0016_Crouch (BGRA8, 200X200)
+[2018.03.10-02.23.27:133][768]LogTexture: Display: Building textures: TCM__0017_Jumpstart1 (BGRA8, 200X200)
+[2018.03.10-02.23.27:138][768]LogTexture: Display: Building textures: TCM__0018_Jumpstart2 (BGRA8, 200X200)
+[2018.03.10-02.23.27:141][768]LogTexture: Display: Building textures: TCM__0019_Jumpidle (BGRA8, 200X200)
+[2018.03.10-02.23.27:145][768]LogTexture: Display: Building textures: TCM__0020_Jumppeak (BGRA8, 200X200)
+[2018.03.10-02.23.27:149][768]LogTexture: Display: Building textures: TCM__0021_Jumpfall (BGRA8, 200X200)
+[2018.03.10-02.23.27:153][768]LogTexture: Display: Building textures: TCM__0022_Jumpland1 (BGRA8, 200X200)
+[2018.03.10-02.23.27:157][768]LogTexture: Display: Building textures: TCM__0023_Jumpland2 (BGRA8, 200X200)
+[2018.03.10-02.24.26:475][431]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.03.10-02.24.38:257][812]LogSavePackage: Save=7.79ms
+[2018.03.10-02.24.38:257][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0023_Jumpland2_SpriteFB8EE1C6474B257095C555BEEBD3B8FD.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0023_Jumpland2_Sprite.uasset'
+[2018.03.10-02.24.38:260][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0023_Jumpland2_Sprite.uasset
+[2018.03.10-02.24.38:280][812]LogSavePackage: Save=7.31ms
+[2018.03.10-02.24.38:280][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0022_Jumpland1_Sprite9FE917A943568EEBD17765B9F427A013.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0022_Jumpland1_Sprite.uasset'
+[2018.03.10-02.24.38:283][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0022_Jumpland1_Sprite.uasset
+[2018.03.10-02.24.38:303][812]LogSavePackage: Save=7.13ms
+[2018.03.10-02.24.38:303][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0021_Jumpfall_Sprite163990624ABD3AEFE8B07FB8F2A83AD4.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0021_Jumpfall_Sprite.uasset'
+[2018.03.10-02.24.38:305][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0021_Jumpfall_Sprite.uasset
+[2018.03.10-02.24.38:326][812]LogSavePackage: Save=7.11ms
+[2018.03.10-02.24.38:326][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0020_Jumppeak_Sprite419E4A514F0D1803619A3C9F8613871D.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0020_Jumppeak_Sprite.uasset'
+[2018.03.10-02.24.38:328][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0020_Jumppeak_Sprite.uasset
+[2018.03.10-02.24.38:348][812]LogSavePackage: Save=7.49ms
+[2018.03.10-02.24.38:348][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0019_Jumpidle_SpriteD9AA06AC46E3B93CAD12E6911A639F59.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0019_Jumpidle_Sprite.uasset'
+[2018.03.10-02.24.38:351][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0019_Jumpidle_Sprite.uasset
+[2018.03.10-02.24.38:371][812]LogSavePackage: Save=7.43ms
+[2018.03.10-02.24.38:371][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0018_Jumpstart2_SpriteB7F382974ABF203975F7558362A67C81.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0018_Jumpstart2_Sprite.uasset'
+[2018.03.10-02.24.38:374][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0018_Jumpstart2_Sprite.uasset
+[2018.03.10-02.24.38:394][812]LogSavePackage: Save=7.25ms
+[2018.03.10-02.24.38:394][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0017_Jumpstart1_Sprite0B2F575D488CD56944801F8ED492968B.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0017_Jumpstart1_Sprite.uasset'
+[2018.03.10-02.24.38:397][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0017_Jumpstart1_Sprite.uasset
+[2018.03.10-02.24.38:417][812]LogSavePackage: Save=7.25ms
+[2018.03.10-02.24.38:417][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0016_Crouch_SpriteA9BD355F450AEF46B90144858AD54E69.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0016_Crouch_Sprite.uasset'
+[2018.03.10-02.24.38:420][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0016_Crouch_Sprite.uasset
+[2018.03.10-02.24.38:439][812]LogSavePackage: Save=7.01ms
+[2018.03.10-02.24.38:439][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0015_Dash_Sprite7B2C84634E0DC0833EF0BFB88563557B.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0015_Dash_Sprite.uasset'
+[2018.03.10-02.24.38:442][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0015_Dash_Sprite.uasset
+[2018.03.10-02.24.38:462][812]LogSavePackage: Save=7.13ms
+[2018.03.10-02.24.38:462][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0014_Wallslide_Sprite0F045E104A936AEAAC8A2B871FC19248.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0014_Wallslide_Sprite.uasset'
+[2018.03.10-02.24.38:465][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0014_Wallslide_Sprite.uasset
+[2018.03.10-02.24.38:484][812]LogSavePackage: Save=7.59ms
+[2018.03.10-02.24.38:484][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0013_Hit_SpriteF5E21DFD488BE17E62825A88F1C3F10A.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0013_Hit_Sprite.uasset'
+[2018.03.10-02.24.38:487][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0013_Hit_Sprite.uasset
+[2018.03.10-02.24.38:507][812]LogSavePackage: Save=7.07ms
+[2018.03.10-02.24.38:507][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0012_Run8_Sprite4DBD880A46C9C00A6BF82EA3B2D61225.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0012_Run8_Sprite.uasset'
+[2018.03.10-02.24.38:509][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0012_Run8_Sprite.uasset
+[2018.03.10-02.24.38:527][812]LogSavePackage: Save=7.12ms
+[2018.03.10-02.24.38:527][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0011_Run7_SpriteB63ED6B04654341D183494BE7C24D253.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0011_Run7_Sprite.uasset'
+[2018.03.10-02.24.38:529][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0011_Run7_Sprite.uasset
+[2018.03.10-02.24.38:549][812]LogSavePackage: Save=9.06ms
+[2018.03.10-02.24.38:549][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0010_Run6_Sprite70FD54AA42042457D2478193EB4E4535.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0010_Run6_Sprite.uasset'
+[2018.03.10-02.24.38:551][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0010_Run6_Sprite.uasset
+[2018.03.10-02.24.38:569][812]LogSavePackage: Save=7.23ms
+[2018.03.10-02.24.38:569][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0009_Run5_Sprite544AD4F74AA58504E6A6FCA3DBA1DA6C.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0009_Run5_Sprite.uasset'
+[2018.03.10-02.24.38:571][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0009_Run5_Sprite.uasset
+[2018.03.10-02.24.38:589][812]LogSavePackage: Save=7.03ms
+[2018.03.10-02.24.38:589][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0008_Run4_Sprite54F6B2A441EAFBD0113B26967AA98531.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0008_Run4_Sprite.uasset'
+[2018.03.10-02.24.38:592][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0008_Run4_Sprite.uasset
+[2018.03.10-02.24.38:610][812]LogSavePackage: Save=7.41ms
+[2018.03.10-02.24.38:610][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0007_Run3_SpriteC5C429A54FD6897BA8B4B38427C6FE8C.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0007_Run3_Sprite.uasset'
+[2018.03.10-02.24.38:613][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0007_Run3_Sprite.uasset
+[2018.03.10-02.24.38:630][812]LogSavePackage: Save=7.18ms
+[2018.03.10-02.24.38:630][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0006_Run2_SpriteDFEF787A4FEF25BD7B72CFB0D177E729.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0006_Run2_Sprite.uasset'
+[2018.03.10-02.24.38:633][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0006_Run2_Sprite.uasset
+[2018.03.10-02.24.38:653][812]LogSavePackage: Save=8.79ms
+[2018.03.10-02.24.38:653][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0005_Run1_Sprite8F96E1844396F9662C4FD5B68BE85128.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0005_Run1_Sprite.uasset'
+[2018.03.10-02.24.38:655][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0005_Run1_Sprite.uasset
+[2018.03.10-02.24.38:672][812]LogSavePackage: Save=7.20ms
+[2018.03.10-02.24.38:672][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0004_Runstart3_Sprite6F5AD115470736D1E74DF28E7204D1DE.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0004_Runstart3_Sprite.uasset'
+[2018.03.10-02.24.38:675][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0004_Runstart3_Sprite.uasset
+[2018.03.10-02.24.38:694][812]LogSavePackage: Save=7.80ms
+[2018.03.10-02.24.38:694][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0003_Runstart2_Sprite9C83505343CAB43D71794AB614450617.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0003_Runstart2_Sprite.uasset'
+[2018.03.10-02.24.38:697][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0003_Runstart2_Sprite.uasset
+[2018.03.10-02.24.38:716][812]LogSavePackage: Save=7.57ms
+[2018.03.10-02.24.38:716][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0002_Runstart1_SpriteB1689C634C4317F196D9778D2E09780A.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0002_Runstart1_Sprite.uasset'
+[2018.03.10-02.24.38:719][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0002_Runstart1_Sprite.uasset
+[2018.03.10-02.24.38:736][812]LogSavePackage: Save=7.30ms
+[2018.03.10-02.24.38:736][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0001_Stand_Sprite94CE2FD446DB4D7CE6010AA576938926.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0001_Stand_Sprite.uasset'
+[2018.03.10-02.24.38:739][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0001_Stand_Sprite.uasset
+[2018.03.10-02.24.38:762][812]LogSavePackage: Save=8.28ms
+[2018.03.10-02.24.38:762][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0000_Fall_Sprite2DD1FDB3447DA26AF16D519B0DB8590E.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0000_Fall_Sprite.uasset'
+[2018.03.10-02.24.38:764][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0000_Fall_Sprite.uasset
+[2018.03.10-02.24.38:780][812]LogSavePackage: Save=8.08ms
+[2018.03.10-02.24.38:780][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0023_Jumpland2AFC49B3F4900BA30AD5C33AE304C7AF6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0023_Jumpland2.uasset'
+[2018.03.10-02.24.38:783][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0023_Jumpland2.uasset
+[2018.03.10-02.24.38:798][812]LogSavePackage: Save=7.71ms
+[2018.03.10-02.24.38:798][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0022_Jumpland1FE66F8E941B514C8E0666A84E12C3030.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0022_Jumpland1.uasset'
+[2018.03.10-02.24.38:801][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0022_Jumpland1.uasset
+[2018.03.10-02.24.38:817][812]LogSavePackage: Save=7.81ms
+[2018.03.10-02.24.38:817][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0021_Jumpfall0408DABA464363BA00FCA19BA6B827E6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0021_Jumpfall.uasset'
+[2018.03.10-02.24.38:820][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0021_Jumpfall.uasset
+[2018.03.10-02.24.38:836][812]LogSavePackage: Save=7.86ms
+[2018.03.10-02.24.38:836][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0020_Jumppeak686B0402403F8B085B5E1DB4464294E0.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0020_Jumppeak.uasset'
+[2018.03.10-02.24.38:839][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0020_Jumppeak.uasset
+[2018.03.10-02.24.38:855][812]LogSavePackage: Save=7.70ms
+[2018.03.10-02.24.38:855][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0019_JumpidleF4E01D8E478429208348A282D61D8CE3.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0019_Jumpidle.uasset'
+[2018.03.10-02.24.38:858][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0019_Jumpidle.uasset
+[2018.03.10-02.24.38:874][812]LogSavePackage: Save=7.90ms
+[2018.03.10-02.24.38:874][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0018_Jumpstart2AA0DCF65470926E2227A84BED536D9BC.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0018_Jumpstart2.uasset'
+[2018.03.10-02.24.38:877][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0018_Jumpstart2.uasset
+[2018.03.10-02.24.38:893][812]LogSavePackage: Save=7.58ms
+[2018.03.10-02.24.38:893][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0017_Jumpstart153AA622C482C5D52F16887A084EBE54B.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0017_Jumpstart1.uasset'
+[2018.03.10-02.24.38:895][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0017_Jumpstart1.uasset
+[2018.03.10-02.24.38:911][812]LogSavePackage: Save=7.72ms
+[2018.03.10-02.24.38:911][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0016_Crouch595352574E69C27345A255B388D6803E.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0016_Crouch.uasset'
+[2018.03.10-02.24.38:914][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0016_Crouch.uasset
+[2018.03.10-02.24.38:929][812]LogSavePackage: Save=7.58ms
+[2018.03.10-02.24.38:929][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0015_Dash963F244544D82131C862C1A009EA908D.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0015_Dash.uasset'
+[2018.03.10-02.24.38:931][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0015_Dash.uasset
+[2018.03.10-02.24.38:947][812]LogSavePackage: Save=7.54ms
+[2018.03.10-02.24.38:947][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0014_WallslideA9D5DE274AB646FB70E3A5B3E86F5440.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0014_Wallslide.uasset'
+[2018.03.10-02.24.38:950][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0014_Wallslide.uasset
+[2018.03.10-02.24.38:966][812]LogSavePackage: Save=8.29ms
+[2018.03.10-02.24.38:966][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0013_Hit48DE78A040C48B067E0EF4902F992E56.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0013_Hit.uasset'
+[2018.03.10-02.24.38:969][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0013_Hit.uasset
+[2018.03.10-02.24.38:986][812]LogSavePackage: Save=9.28ms
+[2018.03.10-02.24.38:986][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0012_Run85E926EEF4D5DE5D66F52B09E65DEC950.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0012_Run8.uasset'
+[2018.03.10-02.24.38:989][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0012_Run8.uasset
+[2018.03.10-02.24.39:006][812]LogSavePackage: Save=9.13ms
+[2018.03.10-02.24.39:006][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0011_Run7B89FFC7A477CB4B618FC28B55B36D43A.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0011_Run7.uasset'
+[2018.03.10-02.24.39:009][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0011_Run7.uasset
+[2018.03.10-02.24.39:025][812]LogSavePackage: Save=7.72ms
+[2018.03.10-02.24.39:025][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0010_Run6CC89106B4345E78FF0AE4389CFDD7F84.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0010_Run6.uasset'
+[2018.03.10-02.24.39:027][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0010_Run6.uasset
+[2018.03.10-02.24.39:042][812]LogSavePackage: Save=7.61ms
+[2018.03.10-02.24.39:042][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0009_Run54A117BF74236B99EE1F98D8BBA9FA82A.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0009_Run5.uasset'
+[2018.03.10-02.24.39:045][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0009_Run5.uasset
+[2018.03.10-02.24.39:060][812]LogSavePackage: Save=7.61ms
+[2018.03.10-02.24.39:060][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0008_Run41362B5D54D40E6D78B8CB1AB1BAE322B.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0008_Run4.uasset'
+[2018.03.10-02.24.39:063][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0008_Run4.uasset
+[2018.03.10-02.24.39:079][812]LogSavePackage: Save=8.56ms
+[2018.03.10-02.24.39:079][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0007_Run3CF3889F845A9E0F469554CADF92149DB.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0007_Run3.uasset'
+[2018.03.10-02.24.39:082][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0007_Run3.uasset
+[2018.03.10-02.24.39:098][812]LogSavePackage: Save=8.02ms
+[2018.03.10-02.24.39:098][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0006_Run285BE81C041757994C56AD198B584B168.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0006_Run2.uasset'
+[2018.03.10-02.24.39:100][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0006_Run2.uasset
+[2018.03.10-02.24.39:116][812]LogSavePackage: Save=7.93ms
+[2018.03.10-02.24.39:116][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0005_Run1C96E227747BC39FEC0008BAC05823DEF.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0005_Run1.uasset'
+[2018.03.10-02.24.39:118][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0005_Run1.uasset
+[2018.03.10-02.24.39:135][812]LogSavePackage: Save=7.60ms
+[2018.03.10-02.24.39:135][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0004_Runstart3209492C04E4A0B8D995B369B8A14543B.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0004_Runstart3.uasset'
+[2018.03.10-02.24.39:138][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0004_Runstart3.uasset
+[2018.03.10-02.24.39:154][812]LogSavePackage: Save=7.63ms
+[2018.03.10-02.24.39:154][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0003_Runstart28378F9794EA2EC8694F489A0F5C90562.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0003_Runstart2.uasset'
+[2018.03.10-02.24.39:156][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0003_Runstart2.uasset
+[2018.03.10-02.24.39:173][812]LogSavePackage: Save=7.90ms
+[2018.03.10-02.24.39:173][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0002_Runstart17F87C0AE461581CF49760EBD21BC6E18.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0002_Runstart1.uasset'
+[2018.03.10-02.24.39:176][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0002_Runstart1.uasset
+[2018.03.10-02.24.39:191][812]LogSavePackage: Save=7.81ms
+[2018.03.10-02.24.39:191][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0001_StandF1B337B44CF068C080E8AB868BB94B19.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0001_Stand.uasset'
+[2018.03.10-02.24.39:194][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0001_Stand.uasset
+[2018.03.10-02.24.39:210][812]LogSavePackage: Save=7.88ms
+[2018.03.10-02.24.39:210][812]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0000_FallDF77069B434F9B4EF2E614940A96DC26.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0000_Fall.uasset'
+[2018.03.10-02.24.39:212][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0000_Fall.uasset
+[2018.03.10-02.25.02:075][505]LogSavePackage: Save=6.39ms
+[2018.03.10-02.25.02:075][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0000_FallF8A1973A46635357C5C8D48B4D22A506.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0000_Fall.uasset'
+[2018.03.10-02.25.02:078][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0000_Fall.uasset
+[2018.03.10-02.25.02:093][505]LogSavePackage: Save=6.29ms
+[2018.03.10-02.25.02:093][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0001_StandD65AFA714CAB8024FD38C0A3A8C1E52C.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0001_Stand.uasset'
+[2018.03.10-02.25.02:095][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0001_Stand.uasset
+[2018.03.10-02.25.02:111][505]LogSavePackage: Save=6.79ms
+[2018.03.10-02.25.02:111][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0002_Runstart17AFEC7124D8592AD234EA7B97D0582CE.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0002_Runstart1.uasset'
+[2018.03.10-02.25.02:113][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0002_Runstart1.uasset
+[2018.03.10-02.25.02:128][505]LogSavePackage: Save=7.12ms
+[2018.03.10-02.25.02:128][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0003_Runstart25A819A5B40DF0748DC32E0A0C640CCE6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0003_Runstart2.uasset'
+[2018.03.10-02.25.02:131][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0003_Runstart2.uasset
+[2018.03.10-02.25.02:145][505]LogSavePackage: Save=6.32ms
+[2018.03.10-02.25.02:145][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0004_Runstart3930D31704DBD7A42317460801B95A991.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0004_Runstart3.uasset'
+[2018.03.10-02.25.02:148][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0004_Runstart3.uasset
+[2018.03.10-02.25.02:162][505]LogSavePackage: Save=6.61ms
+[2018.03.10-02.25.02:162][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0005_Run18B40959549EA26EDA32D909C12F4B4FF.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0005_Run1.uasset'
+[2018.03.10-02.25.02:166][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0005_Run1.uasset
+[2018.03.10-02.25.02:180][505]LogSavePackage: Save=6.57ms
+[2018.03.10-02.25.02:180][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0006_Run25EA7C2C54618A1054152F7B624B9EF12.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0006_Run2.uasset'
+[2018.03.10-02.25.02:183][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0006_Run2.uasset
+[2018.03.10-02.25.02:198][505]LogSavePackage: Save=6.79ms
+[2018.03.10-02.25.02:198][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0007_Run3CB9197334FD23F2F50005BB369DF7C03.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0007_Run3.uasset'
+[2018.03.10-02.25.02:201][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0007_Run3.uasset
+[2018.03.10-02.25.02:215][505]LogSavePackage: Save=6.23ms
+[2018.03.10-02.25.02:215][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0008_Run4B8DDF1584FCDB763A5587DBD3866C522.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0008_Run4.uasset'
+[2018.03.10-02.25.02:218][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0008_Run4.uasset
+[2018.03.10-02.25.02:232][505]LogSavePackage: Save=6.43ms
+[2018.03.10-02.25.02:232][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0009_Run5F4B6FDB44E54034C1713C08399F0A456.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0009_Run5.uasset'
+[2018.03.10-02.25.02:235][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0009_Run5.uasset
+[2018.03.10-02.25.02:249][505]LogSavePackage: Save=6.55ms
+[2018.03.10-02.25.02:249][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0010_Run69F13AF194C1667F3C2DC659C4D46A460.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0010_Run6.uasset'
+[2018.03.10-02.25.02:252][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0010_Run6.uasset
+[2018.03.10-02.25.02:267][505]LogSavePackage: Save=7.53ms
+[2018.03.10-02.25.02:267][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0011_Run7114E89D946D544F18F67C2A7A1FB8B90.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0011_Run7.uasset'
+[2018.03.10-02.25.02:270][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0011_Run7.uasset
+[2018.03.10-02.25.02:286][505]LogSavePackage: Save=7.86ms
+[2018.03.10-02.25.02:286][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0012_Run887C206324E46E72936F669BA31FD208E.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0012_Run8.uasset'
+[2018.03.10-02.25.02:289][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0012_Run8.uasset
+[2018.03.10-02.25.02:303][505]LogSavePackage: Save=6.86ms
+[2018.03.10-02.25.02:303][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0013_HitD7FD94994ECBC68E741058B37677C706.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0013_Hit.uasset'
+[2018.03.10-02.25.02:306][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0013_Hit.uasset
+[2018.03.10-02.25.02:320][505]LogSavePackage: Save=6.43ms
+[2018.03.10-02.25.02:321][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0014_Wallslide4E40B5324249B36A33474EA157CCAD92.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0014_Wallslide.uasset'
+[2018.03.10-02.25.02:323][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0014_Wallslide.uasset
+[2018.03.10-02.25.02:338][505]LogSavePackage: Save=6.36ms
+[2018.03.10-02.25.02:338][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0015_DashC790B82F46E109D80B234680AC222FFF.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0015_Dash.uasset'
+[2018.03.10-02.25.02:341][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0015_Dash.uasset
+[2018.03.10-02.25.02:355][505]LogSavePackage: Save=6.13ms
+[2018.03.10-02.25.02:355][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0016_Crouch32E9DB434106B0FA7BD6BD8B76F0D662.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0016_Crouch.uasset'
+[2018.03.10-02.25.02:358][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0016_Crouch.uasset
+[2018.03.10-02.25.02:373][505]LogSavePackage: Save=6.66ms
+[2018.03.10-02.25.02:373][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0017_Jumpstart1C500782041582D6C7EE915B6105583B0.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0017_Jumpstart1.uasset'
+[2018.03.10-02.25.02:376][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0017_Jumpstart1.uasset
+[2018.03.10-02.25.02:391][505]LogSavePackage: Save=6.53ms
+[2018.03.10-02.25.02:391][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0018_Jumpstart265994BA94D3775CC38B43D864F5DF7C5.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0018_Jumpstart2.uasset'
+[2018.03.10-02.25.02:394][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0018_Jumpstart2.uasset
+[2018.03.10-02.25.02:409][505]LogSavePackage: Save=6.98ms
+[2018.03.10-02.25.02:409][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0019_Jumpidle7AE279F74159ACB36FE1A0A1658E19FF.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0019_Jumpidle.uasset'
+[2018.03.10-02.25.02:412][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0019_Jumpidle.uasset
+[2018.03.10-02.25.02:426][505]LogSavePackage: Save=6.26ms
+[2018.03.10-02.25.02:427][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0020_Jumppeak3589B0334816316D9ED3A3B0DFE1DB71.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0020_Jumppeak.uasset'
+[2018.03.10-02.25.02:429][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0020_Jumppeak.uasset
+[2018.03.10-02.25.02:444][505]LogSavePackage: Save=6.63ms
+[2018.03.10-02.25.02:444][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0021_JumpfallB5389E50431C197CF883B897455C3691.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0021_Jumpfall.uasset'
+[2018.03.10-02.25.02:446][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0021_Jumpfall.uasset
+[2018.03.10-02.25.02:460][505]LogSavePackage: Save=6.48ms
+[2018.03.10-02.25.02:460][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0022_Jumpland1E957735540A4C4182CD550A7B51B8775.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0022_Jumpland1.uasset'
+[2018.03.10-02.25.02:463][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0022_Jumpland1.uasset
+[2018.03.10-02.25.02:477][505]LogSavePackage: Save=6.25ms
+[2018.03.10-02.25.02:477][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0023_Jumpland2C89B5BED4F82122323182FADF709030F.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0023_Jumpland2.uasset'
+[2018.03.10-02.25.02:480][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/Textures/TCM__0023_Jumpland2.uasset
+[2018.03.10-02.25.03:205][505]LogSavePackage: Save=5.84ms
+[2018.03.10-02.25.03:205][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0000_Fall_SpriteA032E3DB4361DE97330A1687F0B017A1.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0000_Fall_Sprite.uasset'
+[2018.03.10-02.25.03:207][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0000_Fall_Sprite.uasset
+[2018.03.10-02.25.03:219][505]LogSavePackage: Save=4.37ms
+[2018.03.10-02.25.03:219][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0001_Stand_SpriteCBEF233F47C7C660B3552FB89DCC985D.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0001_Stand_Sprite.uasset'
+[2018.03.10-02.25.03:220][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0001_Stand_Sprite.uasset
+[2018.03.10-02.25.03:234][505]LogSavePackage: Save=4.90ms
+[2018.03.10-02.25.03:234][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0002_Runstart1_SpriteD0FAE91D43A94CDED648FB8FF9DDB0B6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0002_Runstart1_Sprite.uasset'
+[2018.03.10-02.25.03:235][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0002_Runstart1_Sprite.uasset
+[2018.03.10-02.25.03:248][505]LogSavePackage: Save=5.03ms
+[2018.03.10-02.25.03:249][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0003_Runstart2_Sprite5D8BB2164776346E71CF238070A2853B.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0003_Runstart2_Sprite.uasset'
+[2018.03.10-02.25.03:250][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0003_Runstart2_Sprite.uasset
+[2018.03.10-02.25.03:261][505]LogSavePackage: Save=4.36ms
+[2018.03.10-02.25.03:261][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0004_Runstart3_SpriteA73CB7DA4D441A26BFD162B59AFB17E5.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0004_Runstart3_Sprite.uasset'
+[2018.03.10-02.25.03:262][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0004_Runstart3_Sprite.uasset
+[2018.03.10-02.25.03:276][505]LogSavePackage: Save=5.48ms
+[2018.03.10-02.25.03:276][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0005_Run1_SpriteBA22F7F649153D6FA4ED969C46DF6225.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0005_Run1_Sprite.uasset'
+[2018.03.10-02.25.03:277][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0005_Run1_Sprite.uasset
+[2018.03.10-02.25.03:289][505]LogSavePackage: Save=4.15ms
+[2018.03.10-02.25.03:289][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0006_Run2_SpriteDC78400F439FD43B8894BD875E8E5A98.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0006_Run2_Sprite.uasset'
+[2018.03.10-02.25.03:290][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0006_Run2_Sprite.uasset
+[2018.03.10-02.25.03:302][505]LogSavePackage: Save=4.25ms
+[2018.03.10-02.25.03:302][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0007_Run3_Sprite35F0999E4F228E9DE8EC588E8D5DC555.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0007_Run3_Sprite.uasset'
+[2018.03.10-02.25.03:303][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0007_Run3_Sprite.uasset
+[2018.03.10-02.25.03:315][505]LogSavePackage: Save=4.11ms
+[2018.03.10-02.25.03:315][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0008_Run4_SpriteDAE6EB2143AEECA239B66BB808A2FD2A.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0008_Run4_Sprite.uasset'
+[2018.03.10-02.25.03:316][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0008_Run4_Sprite.uasset
+[2018.03.10-02.25.03:327][505]LogSavePackage: Save=4.34ms
+[2018.03.10-02.25.03:327][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0009_Run5_SpriteE3549C024C8B9F29690D7782C50DEE12.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0009_Run5_Sprite.uasset'
+[2018.03.10-02.25.03:328][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0009_Run5_Sprite.uasset
+[2018.03.10-02.25.03:342][505]LogSavePackage: Save=5.12ms
+[2018.03.10-02.25.03:342][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0010_Run6_Sprite09EB831E402E7A0C6F9C3BBC251685A1.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0010_Run6_Sprite.uasset'
+[2018.03.10-02.25.03:343][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0010_Run6_Sprite.uasset
+[2018.03.10-02.25.03:355][505]LogSavePackage: Save=4.05ms
+[2018.03.10-02.25.03:355][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0011_Run7_SpriteBB56B1B9424FB0FEBC61EAAA94DBE652.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0011_Run7_Sprite.uasset'
+[2018.03.10-02.25.03:356][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0011_Run7_Sprite.uasset
+[2018.03.10-02.25.03:368][505]LogSavePackage: Save=4.30ms
+[2018.03.10-02.25.03:368][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0012_Run8_Sprite56B146A14711A9B91D593183C7E42DF6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0012_Run8_Sprite.uasset'
+[2018.03.10-02.25.03:369][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0012_Run8_Sprite.uasset
+[2018.03.10-02.25.03:381][505]LogSavePackage: Save=4.87ms
+[2018.03.10-02.25.03:381][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0013_Hit_SpriteA68F492045EEB15424ADA5A0831C37C2.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0013_Hit_Sprite.uasset'
+[2018.03.10-02.25.03:382][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0013_Hit_Sprite.uasset
+[2018.03.10-02.25.03:394][505]LogSavePackage: Save=4.25ms
+[2018.03.10-02.25.03:394][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0014_Wallslide_Sprite3D49DE844C785997E2B0228B8F8BC7E3.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0014_Wallslide_Sprite.uasset'
+[2018.03.10-02.25.03:395][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0014_Wallslide_Sprite.uasset
+[2018.03.10-02.25.03:407][505]LogSavePackage: Save=4.27ms
+[2018.03.10-02.25.03:407][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0015_Dash_Sprite9F9E990C4A8E72D0F263B5A6705BD6B6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0015_Dash_Sprite.uasset'
+[2018.03.10-02.25.03:408][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0015_Dash_Sprite.uasset
+[2018.03.10-02.25.03:420][505]LogSavePackage: Save=4.23ms
+[2018.03.10-02.25.03:420][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0016_Crouch_SpriteB58D57564E509C79865246965460CDAB.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0016_Crouch_Sprite.uasset'
+[2018.03.10-02.25.03:421][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0016_Crouch_Sprite.uasset
+[2018.03.10-02.25.03:433][505]LogSavePackage: Save=4.27ms
+[2018.03.10-02.25.03:433][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0017_Jumpstart1_SpriteD960D435496801755DCDA9AC0905C3C6.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0017_Jumpstart1_Sprite.uasset'
+[2018.03.10-02.25.03:434][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0017_Jumpstart1_Sprite.uasset
+[2018.03.10-02.25.03:446][505]LogSavePackage: Save=4.09ms
+[2018.03.10-02.25.03:446][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0018_Jumpstart2_Sprite68B2E77A4D27CF7296F65AA35D7FD5BC.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0018_Jumpstart2_Sprite.uasset'
+[2018.03.10-02.25.03:447][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0018_Jumpstart2_Sprite.uasset
+[2018.03.10-02.25.03:460][505]LogSavePackage: Save=4.78ms
+[2018.03.10-02.25.03:460][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0019_Jumpidle_Sprite873E94C1475253D9B0B68BB3D209A6F2.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0019_Jumpidle_Sprite.uasset'
+[2018.03.10-02.25.03:461][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0019_Jumpidle_Sprite.uasset
+[2018.03.10-02.25.03:474][505]LogSavePackage: Save=4.32ms
+[2018.03.10-02.25.03:474][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0020_Jumppeak_Sprite4131E2F541B6F7469B0209A6E8F3B43F.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0020_Jumppeak_Sprite.uasset'
+[2018.03.10-02.25.03:475][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0020_Jumppeak_Sprite.uasset
+[2018.03.10-02.25.03:489][505]LogSavePackage: Save=4.95ms
+[2018.03.10-02.25.03:489][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0021_Jumpfall_Sprite372FFF0A44CD1240ACDC47817DFD9633.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0021_Jumpfall_Sprite.uasset'
+[2018.03.10-02.25.03:490][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0021_Jumpfall_Sprite.uasset
+[2018.03.10-02.25.03:503][505]LogSavePackage: Save=4.57ms
+[2018.03.10-02.25.03:503][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0022_Jumpland1_Sprite8D09FC6C4B81F1CAA0E6A590DCC81A78.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0022_Jumpland1_Sprite.uasset'
+[2018.03.10-02.25.03:504][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0022_Jumpland1_Sprite.uasset
+[2018.03.10-02.25.03:517][505]LogSavePackage: Save=4.60ms
+[2018.03.10-02.25.03:517][505]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM__0023_Jumpland2_Sprite431D2B64444D08614A042B98BF386D71.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0023_Jumpland2_Sprite.uasset'
+[2018.03.10-02.25.03:518][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM__0023_Jumpland2_Sprite.uasset
+[2018.03.10-02.25.19:154][337]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.10-02.25.19:648][337]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.03.10-02.25.19:681][337]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.10-02.25.19:696][337]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.03.10-02.25.19:800][337]LogSlate: Took 0.003655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.10-02.26.58:188][889]LogSavePackage: Save=7.18ms
+[2018.03.10-02.26.58:188][889]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/TCM_stand_flipbookA5C492D3436DD852831365A083AFDA93.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM_stand_flipbook.uasset'
+[2018.03.10-02.26.58:190][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/TrenchCoatMessiah/Sprites/Characters/TrenchCoatMessiah/TCM_stand_flipbook.uasset
+[2018.03.10-02.27.13:483][723]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.03.10-02.29.10:213][  0]LogSavePackage: Save=97.37ms
+[2018.03.10-02.29.10:213][  0]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/2DSideScrollerExampleMapF43C30A74DFA0C140E22ED834F4DC550.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.03.10-02.29.10:215][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2018.03.10-02.29.10:227][  0]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.182
+[2018.03.10-02.29.10:286][  0]LogSavePackage: Save=49.98ms
+[2018.03.10-02.29.10:286][  0]LogSavePackage: Moving '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/2DSideScrollerCharacter125E03394ECA242504FC6E95934D5AB1.tmp' to '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.03.10-02.29.10:288][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.03.10-02.29.18:224][929]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.03.10-02.29.26:886][933]Cmd: QUIT_EDITOR
+[2018.03.10-02.29.27:334][933]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-02.29.27:367][933]LogExit: Preparing to exit.
+[2018.03.10-02.29.28:430][933]LogDirectoryWatcher: A directory notification for 'C:/Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/' was aborted.
+[2018.03.10-02.29.28:459][933]LogExit: Editor shut down
+[2018.03.10-02.29.28:462][933]LogExit: Transaction tracking system shut down
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/' was aborted.
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.10-02.29.28:609][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.10-02.29.28:698][933]LogExit: Object subsystem successfully closed.
+[2018.03.10-02.29.28:714][933]LogD3D11RHI: Shutdown
+[2018.03.10-02.29.28:714][933]LogD3D11RHI: CleanupD3DDevice
+[2018.03.10-02.29.28:716][933]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.10-02.29.28:732][933]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.03.10-02.29.28:732][933]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.03.10-02.29.28:732][933]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.10-02.29.28:732][933]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.10-02.29.28:732][933]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.10-02.29.28:732][933]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.10-02.29.28:733][933]LogDirectoryWatcher: A directory notification for 'C:/Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/Collections/' was aborted.
+[2018.03.10-02.29.28:733][933]LogDirectoryWatcher: A directory notification for 'C:/Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Content/Developers/Digress/Collections/' was aborted.
+[2018.03.10-02.29.28:733][933]LogDirectoryWatcher: A directory notification for 'C:/Users/Digress/Desktop/Github/UE4 Projects/TrenchCoatMessiah/Saved/Collections/' was aborted.
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.10-02.29.28:733][933]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.10-02.29.28:734][933]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.10-02.29.28:742][933]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.10-02.29.28:743][933]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.10-02.29.28:805][933]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.10-02.29.28:805][933]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.10-02.29.28:805][933]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.10-02.29.28:805][933]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.10-02.29.28:805][933]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.10-02.29.28:805][933]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.10-02.29.28:806][933]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.10-02.29.28:806][933]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.10-02.29.28:806][933]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.10-02.29.28:806][933]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.10-02.29.28:817][933]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.10-02.29.28:818][933]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.10-02.29.28:919][933]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.10-02.29.28:920][933]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.10-02.29.28:921][933]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.10-02.29.28:921][933]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.10-02.29.28:921][933]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.10-02.29.28:922][933]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.10-02.29.28:923][933]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.10-02.29.28:923][933]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.10-02.29.28:923][933]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.10-02.29.28:924][933]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.10-02.29.29:024][933]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.10-02.29.29:125][933]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.10-02.29.29:125][933]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.10-02.29.29:125][933]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.10-02.29.29:125][933]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.10-02.29.29:126][933]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.10-02.29.29:126][933]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.10-02.29.29:128][933]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.10-02.29.29:128][933]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.10-02.29.29:128][933]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.10-02.29.29:128][933]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.10-02.29.29:131][933]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.10-02.29.29:131][933]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.10-02.29.29:131][933]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.10-02.29.29:131][933]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.10-02.29.29:131][933]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.10-02.29.29:131][933]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.10-02.29.29:137][933]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.10-02.29.29:137][933]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.10-02.29.29:138][933]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.10-02.29.29:139][933]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.10-02.29.29:139][933]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.10-02.29.29:139][933]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.10-02.29.29:139][933]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.10-02.29.29:145][933]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.10-02.29.29:146][933]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.10-02.29.29:147][933]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.10-02.29.29:223][933]LogDerivedDataCache: Shutdown
+[2018.03.10-02.29.29:223][933]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.10-02.29.29:223][933]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.10-02.29.29:223][933]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.10-02.29.29:223][933]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.10-02.29.29:223][933]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.10-02.29.29:223][933]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.10-02.29.29:224][933]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.10-02.29.29:225][933]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.10-02.29.29:225][933]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.10-02.29.29:225][933]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B5E80D1-45F9-EEEE-65A0-1D85C243153F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=0b3716c34087ba0b9e0f71b1673e3fc0%7Cec86f50a1c0d4bc895c69e01df50359f%7C87e5aa9a-1e1c-46f9-a01a-90bf9522660c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.10-02.29.29:238][933]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.10-02.29.29:239][933]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.10-02.29.29:240][933]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.10-02.29.29:240][933]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.10-02.29.29:240][933]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.10-02.29.29:240][933]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.10-02.29.29:240][933]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.10-02.29.29:240][933]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.10-02.29.29:241][933]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.10-02.29.29:242][933]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.10-02.29.29:242][933]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.10-02.29.29:242][933]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.10-02.29.29:242][933]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.10-02.29.29:246][933]LogExit: Exiting.
+[2018.03.10-02.29.29:263][933]Log file closed, 03/09/18 18:29:29
